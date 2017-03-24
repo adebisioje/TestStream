@@ -3,4 +3,4 @@
 INTO
     [YourOutputAlias_New]
 FROM
-    [YourInputAlias]
+    [YourInputAlias_Oldest]
