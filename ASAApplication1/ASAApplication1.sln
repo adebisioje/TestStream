@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E6C563F2-BDC2-4A24-ACBF-01715157DCBB}") = "ASAApplication1", "ASAApplication1\ASAApplication1.asaproj", "{BD3095B7-1085-42BE-920C-00AEA0D1DB4F}"
+EndProject
+Project("{E6C563F2-BDC2-4A24-ACBF-01715157DCBB}") = "streamjob01", "streamjob01\streamjob01.asaproj", "{17B158A0-6E84-4A81-A0FC-808FF0DF806A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD3095B7-1085-42BE-920C-00AEA0D1DB4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD3095B7-1085-42BE-920C-00AEA0D1DB4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD3095B7-1085-42BE-920C-00AEA0D1DB4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD3095B7-1085-42BE-920C-00AEA0D1DB4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17B158A0-6E84-4A81-A0FC-808FF0DF806A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17B158A0-6E84-4A81-A0FC-808FF0DF806A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17B158A0-6E84-4A81-A0FC-808FF0DF806A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17B158A0-6E84-4A81-A0FC-808FF0DF806A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
